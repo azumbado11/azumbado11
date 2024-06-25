@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Check my projects [pending](pending)<br>📚 I'm currently learning Databases<br>💬 Ask me about React, NextJS, AstroJS<br>📫 How to reach me gv11zumbado@gmail.com</p>
+<p align="left">👨‍💻 <a href="https://azumbado11.github.io/portfolio/" target="_blank" rel="noreferrer">Check my projects</a><br>📚 I'm currently learning Databases<br>💬 Ask me about React, NextJS, AstroJS<br>📫 How to reach me gv11zumbado@gmail.com</p>
 
 ###
 
